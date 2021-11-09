@@ -1,5 +1,5 @@
-set nocompatible        
-filetype off                                                               
+set nocompatible
+filetype off
 
 syntax on
 
